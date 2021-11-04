@@ -1,7 +1,7 @@
 # AgriCola
 
 ## Workflow
-![Workflow]([url=https://i.ibb.co/ZGxMGNG/Screenshot-2021-11-04-at-4-10-47-PM.png][img]hhttps://i.ibb.co/ZGxMGNG/Screenshot-2021-11-04-at-4-10-47-PM.png[/img][/url])
+![Workflow](https://i.ibb.co/ZGxMGNG/Screenshot-2021-11-04-at-4-10-47-PM.png)
 
 ## Inspiration
 Hundreds of farmers in Madhya Pradesh's Betul district, who had entered a contract for drumstick farming in 2018, are now fighting to get a case registered against a company that disappeared after allegedly cheating them.
